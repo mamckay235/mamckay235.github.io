@@ -175,3 +175,4 @@ Analyzing this dataset was eye-opening and educational in and of itself. I began
 
 Stay in Touch
 If you have thoughts on my findings or if you know of a job where this kind of information would be beneficial, I’d love to connect with you on LinkedIn! 
+[Visit the LinkedIn article here](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
