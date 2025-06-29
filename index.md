@@ -18,12 +18,12 @@
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. -->
 
-#### [Massachusetts Education Overview with Tableau](/Massachusetts)
-[<img src="images/2017Mass.png?raw=true"/>](/Massachusetts)
+#### [Massachusetts Education Overview with Tableau](/massachusetts)
+[<img src="images/2017Mass.png?raw=true"/>](/massachusetts)
 - Created dashboard evaluating 1,800 different schools' performance across 100's of features
 - Used Scatter Plots, KPI's, Bar Plots, & Area charts to show performance differences
 - Presented dashboard to stakeholders via recorded video
-[Massachusetts Education Overview with Tableau](/Massachusetts) [Watch the Tableau Dashboard presentation here](https://www.loom.com/share/b3dd0517febf4f13b6a97679867aa984?sid=80035c54-8000-45f2-b97f-d5ece1cb1230)
+[Massachusetts Education Overview with Tableau](/massachusetts) [Watch the Tableau Dashboard presentation here](https://www.loom.com/share/b3dd0517febf4f13b6a97679867aa984?sid=80035c54-8000-45f2-b97f-d5ece1cb1230)
 ---
 
 ### Category Name 2
