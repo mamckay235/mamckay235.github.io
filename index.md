@@ -23,7 +23,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 - Created dashboard evaluating 1,800 different schools' performance across 100's of features
 - Used Scatter Plots, KPI's, Bar Plots, & Area charts to show performance differences
 - Presented dashboard to stakeholders via recorded video
-[Read the article here](/Massachusetts) [Watch the Tableau Dashboard presentation here](https://www.loom.com/share/b3dd0517febf4f13b6a97679867aa984?sid=80035c54-8000-45f2-b97f-d5ece1cb1230)
+[Massachusetts Education Overview with Tableau](/Massachusetts) [Watch the Tableau Dashboard presentation here](https://www.loom.com/share/b3dd0517febf4f13b6a97679867aa984?sid=80035c54-8000-45f2-b97f-d5ece1cb1230)
 ---
 
 ### Category Name 2
