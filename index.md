@@ -18,8 +18,6 @@
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. -->
 
----
-
 #### [Massachusetts Education Overview with Tableau](/Massachusetts)
 [<img src="images/2017Mass.png?raw=true"/>](/Massachusetts)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
