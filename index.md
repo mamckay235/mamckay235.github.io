@@ -4,8 +4,8 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Internal Blog Post Project](/doordash)
+<img src="images/Order Up.png?raw=true"/>
 Tolulope is the best
 
 ---
