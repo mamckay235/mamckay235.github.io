@@ -1,4 +1,4 @@
-# Bank Project
+# DoorDash Project
 
 Just last month, I was sitting in the passenger seat of my husband's car, grading math exams, while he was inside a Chipotle waiting to pick up his next delivery. Having grown up in a small town where delivery was virtually non-existent, I marveled at the customer who ordered a singular burrito to be delivered all the way across town. This customer ultimately paid more in delivery charges than for the food itself! I started to wonder: Who are the customers placing these orders? What drives them to spend money on takeout? Does educational background play a role in their spending habits?
 
