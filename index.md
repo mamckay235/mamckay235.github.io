@@ -1,13 +1,17 @@
- <link rel="shortcut icon" type="image/x-icon" href="Headshot 2020.jpg?">
+<!-- <link rel="shortcut icon" type="image/x-icon" href="Headshot 2020.jpg?">-->
 # Welcome to My Portfolio
 
 ---
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/doordash)
-<img src="images/Order Up.png?raw=true"/>
-Tolulope is the best
+#### [Analyzing DoorDash Marketing Data with Excel](/doordash)
+[<img src="images/Order Up.png?raw=true"/>](/doordash)
+- Real world-marketing campaign data
+- Using only Excel for analysis and data visualization
+- Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts
+- Provided a comprehensive write up to help the marketing team on their next campaign
+[Visit the LinkedIn article here](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
@@ -16,11 +20,8 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Analyzing DoorDash Marketing Data with Excel](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
-[<img src="images/Order Up.png?raw=true"/>](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
-- Real world-marketing campaign data
-- Using only Excel for analysis and data visualization
-- Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts
-- Provided a comprehensive write up to help the marketing team on their next campaign
+
+
 
 
 ---
