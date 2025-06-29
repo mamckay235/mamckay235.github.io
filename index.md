@@ -1,3 +1,4 @@
+ <link rel="shortcut icon" type="image/x-icon" href="Headshot 2020.jpg?">
 # Welcome to My Portfolio
 
 ---
