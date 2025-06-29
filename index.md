@@ -14,18 +14,13 @@
 [Visit the LinkedIn article here](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+<!--#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. -->
 
 ---
-#### [Analyzing DoorDash Marketing Data with Excel](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
 
-
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Massachusetts Education Overview with Tableau](/Massachusetts)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
