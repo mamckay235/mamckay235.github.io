@@ -21,7 +21,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 ---
 
 #### [Massachusetts Education Overview with Tableau](/Massachusetts)
-[<img src="images/2017 State of Massachusetts Public Schools.png?raw=true"/>](/Massachusetts)
+[<img src="images/2017 State of Massachusetts Public Schools (2).png?raw=true"/>](/Massachusetts)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
