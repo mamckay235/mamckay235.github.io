@@ -1,7 +1,7 @@
 title: Megan McKay # your name (or website title) here
 logo: "/images/Headshot2020 white background.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I need to write a bio. <br><br>
+  I need to write a bio. <br>
   <a href="https://www.linkedin.com/in/megan-a-mckay/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
