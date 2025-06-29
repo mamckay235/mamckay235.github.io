@@ -6,7 +6,7 @@
 ### Learn About My Projects
 
 #### [Analyzing DoorDash Marketing Data with Excel](/doordash)
-[<img src="images/Order Up.png?raw=true"/>](/doordash)
+[<img src="images/Order Up (1).png?raw=true"/>](/doordash)
 - Real world-marketing campaign data
 - Using only Excel for analysis and data visualization
 - Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts
