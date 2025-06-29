@@ -11,7 +11,7 @@
 - Using only Excel for analysis and data visualization
 - Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts
 - Provided a comprehensive write up to help the marketing team on their next campaign
-[Visit the LinkedIn article here](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
+
 
 ---
 <!--#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
