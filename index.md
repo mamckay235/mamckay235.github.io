@@ -15,8 +15,11 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Analyzing DoorDash Marketing Data with Excel](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+[<img src="images/Order Up.png?raw=true"/>](https://www.linkedin.com/pulse/takeout-smart-choice-what-your-education-level-says-doordash-mckay-tdbje/)
+- Real world-marketing campaign data
+- Using only Excel for analysis and data visualization
+- Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts
+- Provided a comprehensive write up to help the marketing team on their next campaign
 
 
 ---
